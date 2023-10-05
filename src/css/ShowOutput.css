@@ -52,6 +52,7 @@
 
 @media only screen and (max-width: 800px) {
     .output-container{
+        width: 90%;
         margin-bottom: 72px;
     }
     .actions{

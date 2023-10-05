@@ -17,6 +17,7 @@ textarea{
 
 @media only screen and (max-width: 800px) {
     .input-container{
+        width: 90%;
         margin-bottom: 14px;
     }
 }
