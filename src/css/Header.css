@@ -8,3 +8,9 @@ nav{
     font-weight: 600;
     color: white;
 }
+
+@media only screen and (max-width: 800px) {
+    nav{
+        padding: 17px 29px;
+    }
+}
